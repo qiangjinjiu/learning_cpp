@@ -1,4 +1,8 @@
 参考网址
+https://blog.csdn.net/vivianke/article/details/6994013
+https://www.linuxidc.com/Linux/2011-02/32453.htm
+
+
 编译为dll
 gcc test_a.c -fPIC -shared -o libtest.dll
 
